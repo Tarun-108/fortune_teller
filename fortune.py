@@ -26,6 +26,10 @@ fortunes = {
     "neutral": [
         "☁️ A calm day is a perfect time to plan your next big move.",
         "🌀 Still waters run deep. Something exciting is on the horizon!"
+    ],
+    "stressed": [
+        "🧘 Take a deep breath. Balance will return soon.",
+        "🔥 Pressure creates diamonds. You're doing better than you think!"
     ]
 }
 
